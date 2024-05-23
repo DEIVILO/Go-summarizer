@@ -1,0 +1,1 @@
+Building an AI powered summarizing tool using technology I havent before, probabbly will take a while.
